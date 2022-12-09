@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dev/AppArrays/AppArrays.iml" filepath="$PROJECT_DIR$/dev/AppArrays/AppArrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dev/ArrayMulti/ArrayMulti.iml" filepath="$PROJECT_DIR$/dev/ArrayMulti/ArrayMulti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Release/dev/AppArrays/AppArrays.iml" filepath="$PROJECT_DIR$/Release/dev/AppArrays/AppArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Release/dev/ArrayMulti/ArrayMulti.iml" filepath="$PROJECT_DIR$/Release/dev/ArrayMulti/ArrayMulti.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/QALAB2022.iml" filepath="$PROJECT_DIR$/.idea/QALAB2022.iml" />
       <module fileurl="file://$PROJECT_DIR$/bucleFor/bucleFor.iml" filepath="$PROJECT_DIR$/bucleFor/bucleFor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dev2/dev2.iml" filepath="$PROJECT_DIR$/dev2/dev2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Release/dev2/dev2.iml" filepath="$PROJECT_DIR$/Release/dev2/dev2.iml" />
     </modules>
   </component>
 </project>
